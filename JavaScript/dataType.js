@@ -14,7 +14,7 @@ Symbol => unique*/
 
 // Object
 
-console.log(typeof "Amit");
+console.log(typeof age);
 
-console.table([typeof name,age,logInUser_Id]);
+console.table([typeof name, typeof age,typeof logInUser_Id])
 
