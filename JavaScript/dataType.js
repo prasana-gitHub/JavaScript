@@ -36,3 +36,16 @@ console.log(typeof (scib));
 
 let njc 
 console.log(typeof (njc));
+
+
+
+//************* String new Method*************
+
+const brahamn = "Srikant kumar panda "
+const karan = "Prasana Pattanayak "
+console.log(`${brahamn}belongs to brahamn family`);
+console.log(`${karan}belongs to karan family`);
+
+console.log(brahamn.charAt(6));
+console.log(karan.indexOf('t'));
+
