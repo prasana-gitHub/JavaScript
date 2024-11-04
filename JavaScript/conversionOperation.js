@@ -42,3 +42,7 @@ console.log(findDataType);              //   o/p NaN
  // 1 = true; 0 = false;
  //"call me pattanayak" = 1;
  //"" = false;
+
+
+
+ // ***********************Operations*************************
